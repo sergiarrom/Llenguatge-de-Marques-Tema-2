@@ -19,13 +19,13 @@
 </ul>
 </section>
 <figure>
-alt="Paella valenciana"<img src="imatges/paella.jpg" width="400">
+<img src="imatges/paella.jpg" width="400" alt=”Paella Valenciana”>
 <figcaption>Paella</figcaption>
 </figure>
 <section>
 <h2>Passos de preparació</h2>
 <ol>
-<li>Sofregir el pollastre.</lI>
+<li>Sofregir el pollastre.</li>
 <li>Afegir el tomàquet.</li>
 <li>Incorporar l'arròs i el brou.</li>
 </ol>
